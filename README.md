@@ -34,14 +34,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="./assets/preview.png" alt="lazarobox-kitty preview">
-</p>
-
----
-
 ## 🎨 Theme
 
 The palette is directly aligned with:
