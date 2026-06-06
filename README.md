@@ -1,3 +1,5 @@
+![lazarobox-kitty](/lazarobox-kitty.png)
+
 # lazarobox-kitty
 
 <p align="center">
